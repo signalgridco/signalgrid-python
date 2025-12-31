@@ -27,5 +27,12 @@ print(response)
 ```
 ## Response
 ```
-{"ruuid":"bc0e212110067ff2995abff087a4a58c8d843ae9","text":"OK","code":"200","node":"dp03","time":"440ms","remaining":"99917"}
+{
+    "ruuid":"bc0e212110067ff2995abff087a4a58c8d843ae9",
+    "text":"OK",
+    "code":"200",
+    "node":"dp03",
+    "time":"440ms",
+    "remaining":"99917"
+}
 ```
