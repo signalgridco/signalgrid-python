@@ -1,4 +1,6 @@
 # Signalgrid Python Client
+[![PyPI version](https://badge.fury.io/py/signalgrid.svg)](https://pypi.org/project/signalgrid/)
+[![Python versions](https://img.shields.io/pypi/pyversions/signalgrid)](https://pypi.org/project/signalgrid/)
 
 Official Python client for the Signalgrid push-notification API.
 
