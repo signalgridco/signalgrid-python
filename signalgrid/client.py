@@ -7,7 +7,7 @@ class SignalgridError(Exception):
 
 
 class Client:
-    def __init__(self, client_key: str, endpoint: str = "https://api.signalgrid.co"):
+    def __init__(self, client_key: str, endpoint: str = "https://api.signalgrid.co/v1/push"):
         if not client_key:
             raise SignalgridError("Client key is required")
 
